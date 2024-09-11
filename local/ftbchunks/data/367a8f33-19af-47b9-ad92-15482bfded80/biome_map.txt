@@ -1,0 +1,11 @@
+#6F6 minecraft:badlands
+#1A6 terralith:cave/granite_caves
+#7F0 biomesoplenty:dryland
+#614 minecraft:eroded_badlands
+#3B0 biomesoplenty:lush_desert
+#5FF minecraft:river
+#14C biomesoplenty:spider_nest
+#51A minecraft:stony_shore
+#2B7 minecraft:warm_ocean
+#531 terralith:warm_river
+#5DF biomesoplenty:wasteland

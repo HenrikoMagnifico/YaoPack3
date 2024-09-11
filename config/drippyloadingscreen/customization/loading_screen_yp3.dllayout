@@ -1,0 +1,109 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  autoscale_baseheight = 914
+  renderorder = foreground
+  autoscale_basewidth = 1633
+  randommode = false
+  scale = 2
+  randomonlyfirsttime = false
+}
+
+customization {
+  x = 141
+  action = editlogo
+  y = -4
+}
+
+customization {
+  visible = false
+  action = editprogressbar
+}
+
+customization {
+  orientation = mid-centered
+  name = loadingscreen_slideshow_yp3
+  x = 97
+  width = 1073
+  actionid = 2239bcba-da54-4794-935e-0d2768a0a9a51673117075008
+  action = addslideshow
+  y = 52
+  height = 611
+}
+
+customization {
+  path = resources/menu/yaopack3_logo_shadow.png
+  orientation = mid-centered
+  x = -3
+  width = 336
+  action = addtexture
+  actionid = 89af76d1-124e-4bff-8cb8-374cc7060c8b1673123813609
+  y = -34
+  height = 319
+}
+
+customization {
+  path = resources/menu/black_transparent.png
+  orientation = bottom-centered
+  x = 0
+  width = 866
+  action = addtexture
+  actionid = e79e96fb-9df1-420a-bb8c-25843726fd191673118017135
+  y = 6
+  height = 71
+}
+
+customization {
+  orientation = bottom-right
+  shadow = true
+  x = -10
+  textcolor = #ffffff
+  action = addtext
+  actionid = e329894c-ffca-470d-89a7-e549f56d13811673115605654
+  y = -13
+  scale = 3.0
+  alignment = left
+  value = %loadingprogress%%
+}
+
+customization {
+  orientation = bottom-centered
+  x = -1
+  width = 859
+  actionid = 8ea96553-d1bd-4a22-a749-a0b208d5939a1673115564219
+  y = -58
+  action = addcustomprogressbar
+  height = 11
+  direction = right
+  barcolor = #DF3734
+  backgroundcolor = #000000
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 10
+  textcolor = #ffffff
+  action = addtext
+  actionid = a8faa0f0-8055-409d-a967-07e1525d6f291673117212922
+  y = -13
+  scale = 1.5
+  alignment = left
+  value = %percentram% of RAM used
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 10
+  textcolor = #ffffff
+  action = addtext
+  actionid = 7b48a4c7-bd41-4751-a0fd-bd90a7c10b6d1673117323479
+  y = -30
+  scale = 2.0
+  alignment = left
+  value = Loading %loadedmods% mods...
+}
+

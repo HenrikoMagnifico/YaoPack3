@@ -1,0 +1,15 @@
+#6F6 minecraft:badlands
+#556 minecraft:beach
+#184 terralith:brushland
+#008 minecraft:desert
+#680 terralith:desert_oasis
+#79A minecraft:lukewarm_ocean
+#3B0 biomesoplenty:lush_desert
+#335 terralith:lush_desert
+#552 biomesoplenty:old_growth_woodland
+#3DC minecraft:plains
+#5FF minecraft:river
+#799 cave_enhancements:rose_quartz_caves
+#2B7 minecraft:warm_ocean
+#531 terralith:warm_river
+#56C biomesoplenty:wooded_wasteland

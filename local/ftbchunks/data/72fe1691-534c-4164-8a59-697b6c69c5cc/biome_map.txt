@@ -1,0 +1,16 @@
+#15A biomesoplenty:bayou
+#556 minecraft:beach
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#79A minecraft:lukewarm_ocean
+#28D minecraft:mangrove_swamp
+#20D biomesoplenty:marsh
+#3DC minecraft:plains
+#5FF minecraft:river
+#799 cave_enhancements:rose_quartz_caves
+#67B minecraft:savanna
+#274 biomesoplenty:scrubland
+#2CF biomesoplenty:shrubland
+#4D3 minecraft:swamp
+#4C3 minecraft:windswept_hills
+#579 minecraft:windswept_savanna

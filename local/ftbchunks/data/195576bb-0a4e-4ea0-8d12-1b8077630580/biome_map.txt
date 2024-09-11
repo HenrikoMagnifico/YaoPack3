@@ -1,0 +1,14 @@
+#556 minecraft:beach
+#79D terralith:cave/andesite_caves
+#010 minecraft:forest
+#467 biomesoplenty:highland
+#36F biomesoplenty:lavender_forest
+#2D6 minecraft:meadow
+#515 biomesoplenty:mystic_grove
+#73A minecraft:old_growth_pine_taiga
+#60C minecraft:old_growth_spruce_taiga
+#5A5 biomesoplenty:orchard
+#3DC minecraft:plains
+#698 biomesoplenty:redwood_forest
+#5FF minecraft:river
+#2CF biomesoplenty:shrubland

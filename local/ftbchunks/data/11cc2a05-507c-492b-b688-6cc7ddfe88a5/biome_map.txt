@@ -1,0 +1,14 @@
+#6F6 minecraft:badlands
+#4DB terralith:cave/fungal_caves
+#1A6 terralith:cave/granite_caves
+#4CA minecraft:dripstone_caves
+#7F0 biomesoplenty:dryland
+#614 minecraft:eroded_badlands
+#47F biomesoplenty:mediterranean_forest
+#5FF minecraft:river
+#706 minecraft:savanna_plateau
+#71E terralith:savanna_slopes
+#274 biomesoplenty:scrubland
+#421 minecraft:stony_peaks
+#5DF biomesoplenty:wasteland
+#1C9 minecraft:wooded_badlands
